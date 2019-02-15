@@ -1,4 +1,4 @@
-{application, erlang-ipfs-api, [
+{application, ipfs, [
     {description, "Erlang Client Library of Ipfs."},
     {vsn, "0.1.0"},
     {registered, []},
