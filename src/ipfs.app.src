@@ -5,7 +5,7 @@
     {applications, [kernel, stdlib]},
     {mod, { ipfs, []}},
     {maintainers, ["Hendry Rodriguez"]},
-    {links, [{"GitHub", "https://github.com/hendry19901990/erlang-ipfs-api"}]},
+    {links, [{"GitHub", "https://github.com/synrc/ipfs"}]},
     {files, [
         "README.md",
         "rebar.config",
